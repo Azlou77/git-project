@@ -1,0 +1,3 @@
+ Bug Fatal: Working tree contains unstaged changes. Aborting. #8 
+
+ 
