@@ -1,0 +1,6 @@
+
+Bug error: Your local changes to the following files would be overwritten by checkout: bug/git_flow_init_bug.txt Please commit your changes or stash them before you switch branches. Aborting #10
+
+Solution:
+
+git add  your anme-files
