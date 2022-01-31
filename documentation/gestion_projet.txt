@@ -1,0 +1,6 @@
+Comment créer faire une gestion de projet:
+
+1.Allez sur github, puis créer un repository.
+2.Une fois créer, aller sur project dans la barre de navigation voir image1.
+3. Choisir un tableau de type Kanban voir image2.
+4. Mettre les issues sur le tableau Kanban  voir image3.

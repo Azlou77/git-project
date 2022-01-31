@@ -1,0 +1,27 @@
+Les differentes branches de git sont:
+-master : branche principale pour une mise en production.
+-dev: branche ou toutes les fonctionnalites sont termines.
+-feature: branche pour  creer une nouvelle fonctionnalites.
+-fix: pour régler des bugs sur la branche master 
+-release: pour régler des bugs pendant la phase de recette 
+
+Les commandes gitflow et github:
+
+>git flow init : pour initialiser Git et Gitflow dans un projet.
+
+>git flow feature start <nom> : pour démarrer le développement d’une nouvelle fonctionnalité.
+
+>git flow feature finish <nom> : pour terminer le développement d’une nouvelle fonctionnalité.
+
+>git flow release start <version> : pour démarrer le développement d’une nouvelle release.
+
+>git flow release finish <nom> : pour terminer le développement d’une nouvelle release.
+
+>git flow hotfix start <version> : pour démarrer le développement d’un nouveau hotfix.
+
+>git flow hotfix finish <nom> : pour terminer le développement d’un nouveau hotfix.
+
+sources:
+https://mindsers.blog/fr/post/gitflow-la-methodologie-et-la-pratique/
+https://datasift.github.io/gitflow/index.html
+https://m-applications.devoteam.com/2020/02/24/gitflow-les-bonnes-pratiques-de-git/
